@@ -11,8 +11,6 @@ ThemeData darkTheme = ThemeData(
   textTheme: TextTheme(
     headline1: TextStyle(
       color: Colors.white,
-      fontSize: 40,
-      fontWeight: FontWeight.bold,
     ),
   ),
   buttonTheme: ButtonThemeData(
